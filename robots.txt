@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gvdevgames.github.io/sitemap.xml
