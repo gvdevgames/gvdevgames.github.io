@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.memorytrain.game",
+      "sha256_cert_fingerprints": [
+        "33:AD:F4:43:C0:F9:F6:0D:DB:DC:7D:03:C6:85:92:9D:52:09:9F:7E:12:41:DE:36:C0:10:CE:71:8E:9A:93:B5",
+        "7C:0D:97:95:19:50:1E:4E:F1:30:68:11:30:07:83:CE:3C:50:F2:C9:A1:25:DF:8B:88:A4:66:61:93:7F:DE:1B"
+      ]
+    }
+  }
+]
