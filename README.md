@@ -12,8 +12,8 @@ Hand-kept files:
 - `app-ads.txt`: the AdMob publisher id, shared by every app.
 - `.well-known/assetlinks.json`: Android App Links verification. Memory Training opens
   `https://gvdevgames.github.io/memory-training/play?...` challenge links in the app; the file
-  lists the SHA-256 of the signing certificates allowed to do so (the upload key and the debug
-  key today). After the app is created in Play Console, add the Play App Signing key's SHA-256
-  from App integrity, since Play re-signs the bundle with it.
+  lists the SHA-256 of the signing certificates allowed to do so: the Play App Signing key
+  (from App integrity; it signs every store install, added 2026-10-26), the upload key and the
+  debug key.
 - `memory-training/play/index.html`: the challenge link page (opens the app, or the store).
 - `googlee3e3847030d064cc.html`: the Search Console verification.
