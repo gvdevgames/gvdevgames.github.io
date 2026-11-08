@@ -1,0 +1,11 @@
+{
+  "live": [
+    "com.solitaireclub.game",
+    "com.mahjongclub.game",
+    "com.gvdev.space_shooter",
+    "com.wordclub.game",
+    "com.gvdev.passwordgenerator",
+    "com.memorytrain.game"
+  ],
+  "spotlight": null
+}
