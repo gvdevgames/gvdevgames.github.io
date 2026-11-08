@@ -5,7 +5,8 @@
     "com.gvdev.space_shooter",
     "com.wordclub.game",
     "com.gvdev.passwordgenerator",
-    "com.memorytrain.game"
+    "com.memorytrain.game",
+    "com.sudokuclassic.game"
   ],
-  "spotlight": null
+  "spotlight": {"package": "com.sudokuclassic.game", "until": "2026-12-08"}
 }
